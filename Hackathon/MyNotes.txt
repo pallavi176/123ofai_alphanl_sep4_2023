@@ -1,0 +1,23 @@
+git add file.py 		=> staged file.py
+git commit -m "message" => commited file.py
+git push origin main	=> pushed to repo
+
+conflict resolution
+
+git remote add origin <repo link>
+git status
+git checkout -b <branch>
+	- change your working branch locally
+	
+git config --global user.email "saxena.pallavi7211@gmail.com"
+git config --global --list
+git config --global user.name "<Name>"
+
+Github Desktop
+
+2.1 - Reference Links - Repos with good ReadMe
+https://github.com/matiassingers/awesome-readme 
+https://github.com/ai/size-limit#readme 
+https://github.com/ajeetdsouza/zoxide#readme 
+https://github.com/antoinezanardi/werewolves-assistant-api-next#readme 
+
